@@ -1,6 +1,8 @@
 # Looker Studio Interactive Sales Dashboard  
 [View the Dashboard →](https://lookerstudio.google.com/reporting/d97923cd-d65b-4975-8e86-567750c54177)
 
+![Dashboard Preview](Screenshot%202025-10-30%20215530.png)
+
 ---
 
 ## 1. Purpose
