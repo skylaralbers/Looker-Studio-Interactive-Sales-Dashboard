@@ -1,3 +1,8 @@
+# Looker Studio Interactive Sales Dashboard  
+[View the Dashboard →](https://lookerstudio.google.com/reporting/d97923cd-d65b-4975-8e86-567750c54177)
+
+---
+
 ## 1. Purpose
 This dashboard provides a flexible, drill-down view into multi-state U.S. sales performance.  
 
@@ -61,4 +66,3 @@ Fictional U.S. sales dataset spanning multiple states, regions, and time periods
 2. Set *Order Date* = 2019.  
 3. Review “Number of Orders” and “Profit” cards.  
 4. Optionally segment further by *City* or *Category* to drill deeper.  
-
